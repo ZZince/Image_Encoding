@@ -1,0 +1,6 @@
+*.exe
+*/*.exe
+*.dll
+*/*.dll
+*.dll.a
+*/*.dll.a
