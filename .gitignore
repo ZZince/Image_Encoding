@@ -1,6 +1,8 @@
-*.exe
-*/*.exe
-*.dll
-*/*.dll
-*.dll.a
-*/*.dll.a
+**/*.exe
+**/*.dll
+**/*.dll.a
+**/*.raw
+**/*.jpg
+**/*.png
+**/venv/
+**/*.pyc
